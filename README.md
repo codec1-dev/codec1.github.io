@@ -7,7 +7,7 @@ It contains all my important links in one place — blog, GitHub, Twitter, YouTu
 ---
 
 ## 🚀 Live Site
-👉 [https://codec1.github.io](https://codec1.github.io)
+👉 [https://codec1.github.io](https://codec1-dev.github.io/codec1.github.io/)
 
 ---
 
